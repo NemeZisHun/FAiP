@@ -1,0 +1,3 @@
+#Todo:
+
+-in GuessTheNumber.py, figure out why we get a ValueError for floats, instad of just flooring them.
